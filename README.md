@@ -7,9 +7,6 @@ As a simple example of arbitrage, consider the following. The stock of Company X
 
 
 ## Version 
-* Version 1.0
+* Version 1.0 (not current supported)
 
 ## Contact
-#### Developer
-* Homepage: 
-* e-mail: emanuelee966@gmail.com
